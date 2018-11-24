@@ -1,0 +1,12 @@
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.vbproj.ResolveComReference.cache
+D:\TEST\Contacts\vb01\vb01\bin\x86\Debug\vb01.exe
+D:\TEST\Contacts\vb01\vb01\bin\x86\Debug\vb01.pdb
+D:\TEST\Contacts\vb01\vb01\bin\x86\Debug\vb01.xml
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.Form1.resources
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.Resources.resources
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.vbproj.GenerateResource.Cache
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.exe
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.xml
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.pdb
+D:\TEST\Contacts\vb01\vb01\bin\x86\Debug\Oracle.DataAccess.dll
+D:\TEST\Contacts\vb01\vb01\obj\x86\Debug\vb01.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+D:\TEST\Contacts\vb01\vb01\bin\Debug\vb01.exe
+D:\TEST\Contacts\vb01\vb01\bin\Debug\vb01.pdb
+D:\TEST\Contacts\vb01\vb01\bin\Debug\vb01.xml
+D:\TEST\Contacts\vb01\vb01\obj\Debug\vb01.vbproj.ResolveComReference.cache
+D:\TEST\Contacts\vb01\vb01\obj\Debug\vb01.Form1.resources
+D:\TEST\Contacts\vb01\vb01\obj\Debug\vb01.Resources.resources
+D:\TEST\Contacts\vb01\vb01\obj\Debug\vb01.vbproj.GenerateResource.Cache
+D:\TEST\Contacts\vb01\vb01\obj\Debug\vb01.exe
+D:\TEST\Contacts\vb01\vb01\obj\Debug\vb01.xml
+D:\TEST\Contacts\vb01\vb01\obj\Debug\vb01.pdb
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.vbproj.ResolveComReference.cache
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.exe
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.xml
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.pdb
+D:\personal project\vb01_with_excel\vb01\bin\Debug\vb01.exe
+D:\personal project\vb01_with_excel\vb01\bin\Debug\vb01.pdb
+D:\personal project\vb01_with_excel\vb01\bin\Debug\vb01.xml
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.vbprojResolveAssemblyReference.cache
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.Form1.resources
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.Resources.resources
+D:\personal project\vb01_with_excel\vb01\obj\Debug\vb01.vbproj.GenerateResource.Cache
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.vbproj.ResolveComReference.cache
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.exe
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.xml
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.pdb
+D:\personal project\150100_vb01_with_excel\vb01\bin\Debug\vb01.exe
+D:\personal project\150100_vb01_with_excel\vb01\bin\Debug\vb01.pdb
+D:\personal project\150100_vb01_with_excel\vb01\bin\Debug\vb01.xml
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.vbprojResolveAssemblyReference.cache
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.Form1.resources
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.Resources.resources
+D:\personal project\150100_vb01_with_excel\vb01\obj\Debug\vb01.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\150100_vb01_with_excel-master\vb01\obj\Debug\vb01.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Downloads\150100_vb01_with_excel-master\vb01\obj\Debug\vb01.Form1.resources
+C:\Users\Administrator\Downloads\150100_vb01_with_excel-master\vb01\obj\Debug\vb01.Resources.resources
+C:\Users\Administrator\Downloads\150100_vb01_with_excel-master\vb01\obj\Debug\vb01.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\150100_vb01_with_excel-master\vb01\obj\Debug\vb01.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\150100_vb01_with_excel-master\vb01\obj\Debug\vb01.xml
